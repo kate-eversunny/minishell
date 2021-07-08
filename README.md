@@ -11,5 +11,5 @@ To clone and compile code and launch minishell:
 
 Contributors (you can see all commits on original page of the project: https://github.com/gbroccol/minishell):
 
-https://github.com/gbroccol - all the parsing and more.
-me - commands handling, piping and redirection.
+- https://github.com/gbroccol - all the parsing and more
+- me - commands handling, piping and redirection.
